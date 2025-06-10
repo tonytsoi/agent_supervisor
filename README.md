@@ -1,1 +1,1 @@
-# AI Agent Supervisor
+# Multi AI Agents with Supervisor
